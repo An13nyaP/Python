@@ -118,7 +118,5 @@ print(stack.get())  # Output: 2
 ## Conclusion
 Stacks are an essential data structure with various real-world applications. Understanding different implementations in Python helps in choosing the right approach based on efficiency and use case.
 
----
 
-Next up: **Queue in Python** 🚀
 
