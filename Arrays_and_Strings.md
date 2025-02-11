@@ -197,7 +197,4 @@ print(text.rstrip())  # Output: '  hello'
 ## Conclusion
 Strings are fundamental in Python and widely used in text processing and manipulation. Understanding their properties and methods is crucial for efficient problem-solving.
 
----
-
-Next up: **Stack in Python** 🚀
 
